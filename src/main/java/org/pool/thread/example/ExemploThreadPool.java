@@ -101,7 +101,6 @@ public class ExemploThreadPool extends ThreadPool {
 
 	@Override
 	public void execute(JobExecutionContext arg0) throws JobExecutionException {
-		// TODO Auto-generated method stub
 		
 	}
 
